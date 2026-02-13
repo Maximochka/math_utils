@@ -8,7 +8,7 @@ setup(
     description="Простая библиотека для математических операций",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/ваш_профиль/math_utils",
+    url="https://github.com/Maximochka/math_utils",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
